@@ -10,7 +10,5 @@
         android:id="@+id/navigation_category"
         android:icon="@drawable/ic_favorite_black_24dp"
         android:title="@string/favorites" />
-k_24dp"
-        android:title="@string/title_notifications" />
 
 </menu>
